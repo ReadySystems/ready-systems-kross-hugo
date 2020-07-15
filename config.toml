@@ -1,5 +1,5 @@
 baseURL = "https://readysystemskross.netlify.app"
-languageCode = "en-us"
+languageCode = "ar-sa"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
